@@ -1,0 +1,36 @@
+- k6 -> an open-source, developer-friendly, and extensible load testing tool. It helps to prevent performance issues and proactively improve reliability.
+
+- k6 -> evaluation of the reliability and performance of your application and infrastructure
+- k6 -> helps engineering teams prevent errors and SLO breaches, enabling them to build resilient and high-performing applications that scale.
+
+- usage k6 for ->
+  - Load and performance testing -> 
+    - optimization for minimal resource consumption and designed for running high-load performance tests such as spike, stress, or soak tests.
+  - Browser performance testing ->  by  k6 browser API -> performing of browser based performance testing -> collection of browser    metrics  -> identifying performance issues related to browsers
+  - Performance and synthetic monitoring 
+  - Automation of performance tests -> 
+    - integrates seamlessly with CI/CD and automation tools
+  - Chaos and resilience testing -> 
+    - simulation of the traffic as part of your chaos experiments
+
+
+- Spike test -> evaluation system functionality and its performance under  -> experience events of sudden and massive traffic.
+  - ticket sales (Taylor Swift), seasonal sales (Black Friday)
+
+- Spike testing increases to extremely high loads in a very short or non-existent ramp-up time. Usually, it has no plateau period or is very brief. In the same way, the ramp-down is very fast or non-existent, letting the process iterate only once.
+
+- Spike test -> when the system expects to receive a sudden rush of activity 
+- spike test consideration ->
+  - Focus on key processes
+  - The test often won’t finish.
+  - Run, tune, repeat.
+  - Monitor
+
+- Stress testing ->  Evaluation of how the system performs when loads are heavier than usual.
+- The load pattern of a stress test resembles that of an average-load test. -> differences ->
+  -  higher load ->
+    - longer ramp-up period 
+
+- stress test ->  verification of the stability and reliability of the system under conditions of heavy use
+- stress test ->  evaluation of the CPU, memory, network, or overall performance.
+- 
